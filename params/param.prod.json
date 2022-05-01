@@ -2,7 +2,7 @@
   "Parameters": {
     "Stage": "prod",
     "VPCCidrBlock": "192.168.0.0/16",
-    "KeyName": "mykey",
+    "KeyName": "myKey",
     "InstanceType": "t2.micro"
   }
 }
